@@ -1,4 +1,6 @@
-#Apologies for the offensive language.
+#An anecdotal collection of actual or likely sysadmin passwords
+#Apologies for some of this language; anecdotally some profanity such as
+#that below are actual passwords, and no offense is intended. 
 #Intended for actual use; please provide feedback on which work.
 ToInfinityAndBeyond
 TheAnswerIs42
