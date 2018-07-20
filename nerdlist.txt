@@ -48,3 +48,6 @@ letmeinNOW
 Worst0S
 SecurityMakesMeChangeMyPassword0002
 Star69Wars
+TooManySecrets
+SetecAstronomy
+MyVoiceIsMyPassport
