@@ -1,6 +1,6 @@
 #An anecdotal collection of actual or likely sysadmin passwords
 #Apologies for some of this language; anecdotally some profanity such as
-#that below are actual passwords, and no offense is intended. 
+#that below are actual passwords, and no offense is intended.
 #Intended for actual use; please provide feedback on which work.
 alohomora
 speakfriendandenter
@@ -51,3 +51,6 @@ Star69Wars
 TooManySecrets
 SetecAstronomy
 MyVoiceIsMyPassport
+********
+id10t
+OpenSesame
