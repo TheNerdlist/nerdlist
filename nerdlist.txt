@@ -54,4 +54,6 @@ MyVoiceIsMyPassport
 ********
 id10t
 OpenSesame
+changeme
+adminemeplease
 dont4get
