@@ -1,4 +1,4 @@
-#An anecdotal collection of actual or likely sysadmin passwords
+﻿#An anecdotal collection of actual or likely sysadmin passwords
 #Apologies for some of this language; anecdotally some profanity such as
 #that below are actual passwords, and no offense is intended.
 #Intended for actual use; please provide feedback on which work.
@@ -63,3 +63,21 @@ p455w0rd
 changeme
 adminemeplease
 dont4get
+E.lAlSgZbSESBgTgEZEBAbZbAEE  (pi in reverse 1337)
+theenemysgateisdown
+paratheoanimetamystikhood
+i♥mywife
+i♠mycat
+i♣aseal
+♦areflammable
+burnerstolemyeyes
+imnotanatreidesstud
+upupdowndownleftrightleftrightba
+imustnotforgetmypasswordforgettingmypasswordistheloginkiller
+173467321476Charlie32789777643Tango732Victor73117888732476789764376
+ysalamiriprotection
+letthewookieIN
+nuqDaq'Ohpuchpa''e'
+qaStaHnuqjay'
+lobster+stick=hat
+
