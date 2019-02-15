@@ -1,4 +1,4 @@
-﻿#An anecdotal collection of actual or likely sysadmin passwords
+#An anecdotal collection of actual or likely sysadmin passwords
 #Apologies for some of this language; anecdotally some profanity such as
 #that below are actual passwords, and no offense is intended.
 #Intended for actual use; please provide feedback on which work.
@@ -13,9 +13,12 @@ h3avyGiraffe44
 *facepalm*
 1password2many-
 31337
+4dm1n
 4dm1np455w0rd
+5houlder0f0rion
 8l4ck4ndwhite
 @dmin
+admin123
 admin69
 adminemeplease
 administrator
@@ -32,13 +35,14 @@ cybersecurity16
 d3adtired!
 dark2@light
 darksideofthemoon
-dont4get
+deathstar1
 dont4get
 ethanet
 ethernet
 F0r4llth3w3bz
 facepalm
 facepalm.gif
+falken
 Fuck1password
 fuckface
 FuckFacebook
@@ -79,7 +83,6 @@ L1nux4l1f3
 L3tM31n!
 Leetadmin
 letmein
-letmein
 letmein123
 letmein23
 letmeinNOW
@@ -102,6 +105,10 @@ Passthis3$
 Pleaseletmein1
 Pleaseletmein2
 Pleaseletmein3
+r00t123
+r2d2c3po
+root123
+root!!
 SafeBlockchainV0ting
 SaveTheCheerleaderSaveTheWorld
 securityadmin
@@ -114,11 +121,14 @@ speakfriendandenter
 St@rt123
 Star69Wars
 sweetass
+Tannhau53rGat3
 TheAnswerIs42
 toboldlygo
 ToInfinityAndBeyond
 TomMarvoloRiddle
 TooManySecrets
+toor
+tooR
 VelvetSweatshop
 wearenameless
 windows
@@ -154,3 +164,7 @@ letthewookieIN
 nuqDaq'Ohpuchpa''e'
 qaStaHnuqjay'
 lobster+stick=hat
+ilikecats
+catsarecute
+noobsspace2019
+spacecatsinspace
