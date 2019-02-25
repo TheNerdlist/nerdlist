@@ -102,6 +102,7 @@ OpenSaysMe
 OpenSesame
 p455w0rd
 Passthis3$
+Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn1.
 Pleaseletmein1
 Pleaseletmein2
 Pleaseletmein3
@@ -117,10 +118,12 @@ SetecAstronomy
 sh1bb0l33t
 shibbol33t
 shibboleet
+shoggothsatemypassword
 speakfriendandenter
 St@rt123
 Star69Wars
 sweetass
+tailcallofcthulhu
 Tannhau53rGat3
 TheAnswerIs42
 toboldlygo
