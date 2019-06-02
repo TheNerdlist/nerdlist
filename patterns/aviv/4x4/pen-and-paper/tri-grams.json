@@ -1,0 +1,100 @@
+{
+    "patterns": [
+        {
+            "nodes": [
+                13,
+                14,
+                15
+            ],
+            "frequency": 100
+        },
+        {
+            "nodes": [
+                12,
+                13,
+                14
+            ],
+            "frequency": 96
+        },
+        {
+            "nodes": [
+                0,
+                4,
+                8
+            ],
+            "frequency": 96
+        },
+        {
+            "nodes": [
+                15,
+                11,
+                7
+            ],
+            "frequency": 92
+        },
+        {
+            "nodes": [
+                0,
+                1,
+                2
+            ],
+            "frequency": 91
+        },
+        {
+            "nodes": [
+                11,
+                7,
+                3
+            ],
+            "frequency": 87
+        },
+        {
+            "nodes": [
+                8,
+                12,
+                13
+            ],
+            "frequency": 87
+        },
+        {
+            "nodes": [
+                4,
+                8,
+                12
+            ],
+            "frequency": 86
+        },
+        {
+            "nodes": [
+                1,
+                2,
+                3
+            ],
+            "frequency": 78
+        },
+        {
+            "nodes": [
+                7,
+                11,
+                15
+            ],
+            "frequency": 75
+        },
+        {
+            "nodes": [
+                3,
+                7,
+                11
+            ],
+            "frequency": 68
+        },
+        {
+            "nodes": [
+                15,
+                14,
+                13
+            ],
+            "frequency": 68
+        }
+    ]
+}
