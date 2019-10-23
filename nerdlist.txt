@@ -3,6 +3,7 @@
 #that below are actual passwords, and no offense is intended.
 #Intended for actual use; please provide feedback on which work.
 
+',.pyfgcrl
 16-1-19-19-23-15-18-4
 Puke0nSh03001
 3atshItaNdIE
@@ -13,23 +14,31 @@ h3avyGiraffe44
 #letmein2018
 ********
 *facepalm*
+00000000
 1337
 1password2many-
 31337
 4dm1n
 4dm1np455w0rd
+528491
 5houlder0f0rion
 8l4ck4ndwhite
+836547
 @dmin
+accio
 admin123
 admin69
 adminemeplease
 administrator
+aeouidhtns
 alohomora
 Assparade1
 asswordp
 asyouwish
+AW96B6
 changeme
+Chuck Norris
+colemak
 controlfreak
 correct horse battery staple
 correcthorsebatterystaple
@@ -40,6 +49,7 @@ dark2@light
 darksideofthemoon
 deathstar1
 dont4get
+dvorak
 ethanet
 ethernet
 F0r4llth3w3bz
@@ -102,6 +112,7 @@ MyVoiceIsMyPassport
 M0th3r0fDr@g0n$
 N0thacked!
 N0TuXn0BuX
+Natoar23ae
 Needmorewhiskey!
 netapp4life
 Number1Engage
@@ -134,8 +145,10 @@ speakfriendandenter
 St@rt123
 Star69Wars
 sweetass
+Swordfish
 tailcallofcthulhu
 Tannhau53rGat3
+the0toky
 TheAnswerIs42
 toboldlygo
 ToInfinityAndBeyond
@@ -143,6 +156,7 @@ TomMarvoloRiddle
 TooManySecrets
 toor
 tooR
+TrustNo1
 VelvetSweatshop
 V0lV0
 wearenameless
@@ -183,12 +197,15 @@ qaStaHnuqjay'
 lobster+stick=hat
 ilikecats
 catsarecute
+nds09813-050
 noobsspace2019
 spacecatsinspace
 one-does-not-simply-walk-into-Mordor!
 qazwsxedc
 qwerty123
 qwertz123
+qwfpgj
+Rameses 2
 P@ssw0rd
 CPE1704TKS
 Joshua
