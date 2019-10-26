@@ -12,6 +12,7 @@ Vince Johnson <MistrBlank@gmail.com>
 Fabio Neves <hello+nerdlist@fabioneves.ca>
 Maya Quinn <me@mc2.wtf>
 Nathan Shinabarger <nati0n@pm.me>
+David Roizenman <david@hmnd.io>
 
 p/q2-q4!
 ',.pyfgcrl
@@ -229,4 +230,4 @@ A13ce's_R35tr@unt
 multipass
 Thou Shalt Not Pass!
 password
-
+nimda
