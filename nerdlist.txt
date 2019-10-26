@@ -1,7 +1,16 @@
-#An anecdotal collection of actual or likely sysadmin passwords
-#Apologies for some of this language; anecdotally some profanity such as
-#that below are actual passwords, and no offense is intended.
-#Intended for actual use; please provide feedback on which work.
+Authors ordered by first contribution.
+
+
+Tarah Wheeler <t@tarah.org>
+Stephen Harris <sweh@sweharris.org>
+Mike Harris <MikeDawg@gmail.com>
+Jon Martin <standardhuman@protonmail.com>
+Tommy Williams <tommy@sapid.com>
+Talal Balouch <tbalouch@gmail.com>
+Jacob Evans <JacobMGEvans@gmail.com>
+Vince Johnson <MistrBlank@gmail.com>
+Fabio Neves <hello+nerdlist@fabioneves.ca>
+Maya Quinn <me@mc2.wtf>
 
 ',.pyfgcrl
 12345
@@ -218,3 +227,4 @@ A13ce's_R35tr@unt
 multipass
 Thou Shalt Not Pass!
 password
+
