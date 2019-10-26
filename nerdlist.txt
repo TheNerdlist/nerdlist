@@ -1,19 +1,3 @@
-Authors ordered by first contribution.
-
-
-Tarah Wheeler <t@tarah.org>
-Stephen Harris <sweh@sweharris.org>
-Mike Harris <MikeDawg@gmail.com>
-Jon Martin <standardhuman@protonmail.com>
-Tommy Williams <tommy@sapid.com>
-Talal Balouch <tbalouch@gmail.com>
-Jacob Evans <JacobMGEvans@gmail.com>
-Vince Johnson <MistrBlank@gmail.com>
-Fabio Neves <hello+nerdlist@fabioneves.ca>
-Maya Quinn <me@mc2.wtf>
-Nathan Shinabarger <nati0n@pm.me>
-David Roizenman <david@hmnd.io>
-
 p/q2-q4!
 ',.pyfgcrl
 12345
