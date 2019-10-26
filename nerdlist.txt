@@ -13,6 +13,7 @@ Fabio Neves <hello+nerdlist@fabioneves.ca>
 Maya Quinn <me@mc2.wtf>
 Nathan Shinabarger <nati0n@pm.me>
 David Roizenman <david@hmnd.io>
+Jeff McJunkin <jeff.mcjunkin@gmail.com>
 
 p/q2-q4!
 ',.pyfgcrl
@@ -56,6 +57,8 @@ colemak
 controlfreak
 correct horse battery staple
 correcthorsebatterystaple
+CPE1704TKS
+cpe1704tks
 Cyb3rpunk77
 cybersecurity16
 d3adtired!
