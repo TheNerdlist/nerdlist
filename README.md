@@ -7,5 +7,4 @@ general nerds, and folk with access.
 
 We think we're so smart.
 Pun requests welcome!
-Apologies for the profanity; anecdotally these passwords are in use. I'll
-order the profane ones at the bottom.
+Apologies for the profanity; anecdotally these passwords are in use.
