@@ -1,5 +1,7 @@
 Include a screenshot of your cracked passwords. Sufficiently anonymize it so that no user can be identified. 
 
+You must crack something that has an actual unaware user that you can notify. Using anonymized hash lists intended for testing hashcracking is unlikely to count. 
+
 Name your file as "Name - flag.png". jpg is also an ok file format. Maybe don't submit a PDF, because I don't have all day to explode it in a VM to make sure you're not pranking me :-)
 
 By adding your solution, you're affirming that you'll do your best to inform the user that they need to change their password!
