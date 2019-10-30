@@ -222,6 +222,7 @@ AMotherfuckingSorcerer
 A13ce's_R35tr@unt
 multipass
 Thou Shalt Not Pass!
+ThouShaltNotPass!
 password
 nimda
 hacktheplanet
@@ -239,5 +240,8 @@ buffalo
 JOHANN
 Hr'oln
 Crimson Eleven Delight Petrichor
+CrimsonElevenDelightPetrichor
 rycbar123
 badwolf
+lonelyroad
+01189998819991197253
