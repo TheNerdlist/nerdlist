@@ -16,3 +16,4 @@ Jeff McJunkin <jeff.mcjunkin@gmail.com>
 Joshua Ruppe <me@joshruppe.com>
 Charlotte Woodrow <charlotte.woodrow@q3w3e3.dev>
 Noah Shinabarger <noah.shinabarger@protonmail.com>
+Robin Von Ruden <nerdlist@xss.press>
