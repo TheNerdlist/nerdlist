@@ -286,3 +286,6 @@ $n00pD0gg
 ThisMachineKillsFascists
 WOPR
 WarOperationPlanResponse
+sanitizeYourInputs'OR'1=1
+'OR name=admin';
+secret'); DROP TABLE Users;--
