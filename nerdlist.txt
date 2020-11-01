@@ -330,3 +330,6 @@ iddt
 idmus
 idmypos
 idspispopd
+sher
+iamsherlocked
+sherlocked
