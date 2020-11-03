@@ -331,3 +331,6 @@ iddt
 idmus
 idmypos
 idspispopd
+BearsBeetsBattlestarGalatica
+FrakingToasters
+SoSayWeAll
