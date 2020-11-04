@@ -1,19 +1,3 @@
-Authors ordered by first contribution.
-
-
-Tarah Wheeler <t@tarah.org>
-Stephen Harris <sweh@sweharris.org>
-Mike Harris <MikeDawg@gmail.com>
-Jon Martin <standardhuman@protonmail.com>
-Tommy Williams <tommy@sapid.com>
-Talal Balouch <tbalouch@gmail.com>
-Jacob Evans <JacobMGEvans@gmail.com>
-Vince Johnson <MistrBlank@gmail.com>
-Fabio Neves <hello+nerdlist@fabioneves.ca>
-Maya Quinn <me@mc2.wtf>
-Nathan Shinabarger <nati0n@pm.me>
-David Roizenman <david@hmnd.io>
-
 p/q2-q4!
 ',.pyfgcrl
 12345
@@ -30,14 +14,20 @@ h3avyGiraffe44
 *facepalm*
 00000000
 1337
+1077
+10dollars77cents
+10dollars77
 1password2many-
 31337
+4152739164
 4dm1n
 4dm1np455w0rd
 528491
 5houlder0f0rion
+7355608
 8l4ck4ndwhite
 836547
+8675309Jenny!
 @dmin
 ABCDE
 accio
@@ -52,18 +42,24 @@ asswordp
 asyouwish
 AW96B6
 BZ2UH
+CheesePizzaAndALargeSoda
+PanuccisPizza
 changeme
 Chuck Norris
 colemak
 controlfreak
 correct horse battery staple
 correcthorsebatterystaple
+CPE1704TKS
+cpe1704tks
 Cyb3rpunk77
 cybersecurity16
+D0g..........
 d3adtired!
 dark2@light
 darksideofthemoon
 deathstar1
+donkeyballs
 dont4get
 dvorak
 ethanet
@@ -90,6 +86,7 @@ fuckthis1656
 FuckTwitter
 fuckyourlife
 goodfuckingbye
+guest
 H3ll0th3r3
 H3ll0w0rld!
 h4ckmeplz!
@@ -106,8 +103,12 @@ id10t
 iloveyour'or%201=1
 internet
 internet1
+Jenny8675309!
 Joshua
 kissmyass
+klaatu barada nikto
+Klaatu Barada Nikto
+KlaatuBaradaNikt0
 kn0ckknock0
 L1nux4l1f3
 L3tM31n!
@@ -146,6 +147,8 @@ Pleaseletmein3
 PoolOnTheRoof
 Redsox
 Redsox2014
+ReindeerFlotilla
+ReindeerFlotillaSetecAstronomy
 r00t123
 r2d2c3po
 root123
@@ -175,6 +178,7 @@ TooManySecrets
 toor
 tooR
 TrustNo1
+ubiquitous-mendacious-polyglottal
 VelvetSweatshop
 V0lV0
 wearenameless
@@ -197,6 +201,7 @@ You Didn't Say The Magic Word
 Z1ON0101
 “So long, and thanks for all the fish.”
 E.lAlSgZbSESBgTgEZEBAbZbAEE  (pi in reverse 1337)
+E.lAlSgZbSESBgTgEZEBAbZbAEE
 theenemysgateisdown
 paratheoanimetamystikhood
 i♥mywife
@@ -231,5 +236,111 @@ AMotherfuckingSorcerer
 A13ce's_R35tr@unt
 multipass
 Thou Shalt Not Pass!
+ThouShaltNotPass!
 password
 nimda
+hacktheplanet
+hackthegibson
+gibson
+ThePhantomPhreak
+ZeroCool
+CrashOverride
+AcidBurn
+CerealKiller
+LordNikon
+ThePlague
+Messwiththebestdieliketherest
+buffalo
+JOHANN
+Hr'oln
+Crimson Eleven Delight Petrichor
+CrimsonElevenDelightPetrichor
+rycbar123
+badwolf
+lonelyroad
+01189998819991197253
+whatpassword
+TheyRWatching
+youwontguessthisone
+MySecurePassword0
+MySecurePassword1
+MySecurePassword2
+MySecurePassword3
+MySecurePassword4
+MySecurePassword5
+MySecurePassword6
+MySecurePassword7
+MySecurePassword8
+MySecurePassword9
+l33thax0r
+pwned
+pwn3d
+l33t
+hax0r
+dragon
+xavier
+cinderella
+dookie
+sevenofnine
+mrspock
+deepspace9
+temppass
+temporarypassword
+resetme
+forgotpassword
+checkmate
+gandalf
+oxyphenbutazone
+IsolemnlyswearIamuptonogood
+ISolemnlySwearIAmUpToNoGood
+1$013mn1y$w34r14mUp70N0G00d
+$n00pD0gg
+ThisMachineKillsFascists
+WOPR
+WarOperationPlanResponse
+qjkxbmwvz
+aoeuidhtns
+GodsOfDeathLoveApples
+azertyuiop
+qsdfghjklm
+wxcvbn
+qwertzuiop
+yxcvbnm
+qwfpgjluy
+arstdhneio
+zxcvbkm
+qpycbanisfjg
+vmuzldthorwk
+asdf
+frak
+451
+0451
+noclip
+nocliping
+sv_cheats
+impulse101
+impulse255
+giveall
+godmode
+idkfa
+idka
+idbehold
+idchoppers
+idclip
+idclev
+iddqd
+iddt
+idmus
+idmypos
+idspispopd
+sher
+iamsherlocked
+sherlocked
+ellipsis
+vesper
+limpbiscuit4eva
+admiralalonzoghostpenis420YOLO
+margaretthatcheris110%SEXY
+BearsBeetsBattlestarGalatica
+FrakingToasters
+SoSayWeAll

@@ -1,3 +1,15 @@
-Include a screenshot of your cracked passwords. Sufficiently anonymize it so that no user can be identified. 
+1) Include a screenshot of your cracked passwords.
 
-By adding your solution, you're affirming that you'll do your best to inform the user that they need to change their password!
+2) Sufficiently anonymize it so that no user can be identified. 
+
+3) You must crack something that has an actual unaware user that you can notify.
+
+4) Using anonymized hash lists intended for testing hashcracking is unlikely to count. 
+
+5) Name your file as "Name - flag.png". jpg is also an ok file format. Maybe don't submit a PDF, because I don't have all day to explode it in a VM to make sure you're not pranking me :-)
+
+6) There may be some overlap with HIBP (Have I Been Pwned) or other most common password lists, e.g. "password" or "abc123". Those are anecdotally in use in real admin accounts, but do not count for winning solid silver tiles. You can use other cracking lists like HIBP for that. 
+
+7) Using --rules=Jumbo or other flags in John The Ripper to fuzz this list does count within reason. One flag, for instance, was "Sw0rdfish", when the list had the word "Swordfish" in it. It absolutely does count to substitute leetspeak or do numeric/case substitution, etc.
+
+8) By adding your solution, you're affirming that you'll do your best to inform the user that they need to change their password!
