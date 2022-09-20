@@ -15,6 +15,7 @@ This is a list of passwords more likely to be used by sysadmins, general nerds, 
 
 ### Credits
 created by: @tarah for entertainment and research purposes
+
 maintainers: Ean Meyer, Tabatha DiDomenico, and Tarah Wheeler - you?
 
 
