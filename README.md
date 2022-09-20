@@ -1,14 +1,19 @@
-# nerdlist
-Project run by Ean Meyer, Tabatha DiDomenico, and Tarah Wheeler.
+# What's The Nerdlist
+We think we're so smart.
 
-Created by @tarah for entertainment and research purposes.
-This is a list of passwords more likely to be used by sysadmins,
-general nerds, and folk with access. First time contributors to information security repos are incredibly welcome!! Email t@tarah.org if you want help or aren't sure if you should contribute (spoiler: you should!)
+This is a list of passwords more likely to be used by sysadmins, general nerds, and folk with access. Add your nerdiest password to The Nerdlist! First time [contributors](contributing.md) to information security repos are incredibly welcome!!
 
-Win a solid silver challenge coin made like the Scrabble tiles in Sneakers if you crack a password in the wild using this list! See solutions/instructions.txt for more. Since we're giving away solid silver coins, we verify with a brief video call or an in-person demo or a trusted community member's word that you succeeded.
+Pun requests welcome!
+Apologies for the profanity; anecdotally these passwords are in use.
+
+Win a solid silver challenge coin made like the Scrabble tiles in Sneakers if you crack a password in the wild using this list. See [solutions/instructions.txt](solutions/instructions.txt) for more. Since we're giving away solid silver coins, we verify with a brief video call or an in-person demo or a trusted community member's word that you succeeded.
+### Resources
+[Git Basics, submitting your first pull request with The Nerdlist](https://www.youtube.com/watch?v=wVmJY2wI3nI&ab_channel=BsidesOrlYoutube)  (YouTube demonstration)
+[The Nerdlist and Password Hashing](https://www.youtube.com/watch?v=BM2TdcdEJdw&ab_channel=BsidesOrlYoutube) (YouTube demonstration)
 
 **ADD YOUR NAME TO AUTHORS.TXT IF YOU CONTRIBUTE!!**
 
-We think we're so smart.
-Pun requests welcome!
-Apologies for the profanity; anecdotally these passwords are in use.
+created by: @tarah for entertainment and research purposes
+maintainers: Ean Meyer, Tabatha DiDomenico, and Tarah Wheeler - you?
+
+The Nerdlist is looking for active maintainers - reach out to discuss your ideas for The Nerdlist at t@tarah.org 
